@@ -1,4 +1,4 @@
-sim900Guard
+SIM900D sample
 ===========
 
 SMS guard firmware based on sim900d and AVR atmega32
